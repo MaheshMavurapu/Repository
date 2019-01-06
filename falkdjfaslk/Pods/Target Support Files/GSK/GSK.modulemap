@@ -1,0 +1,6 @@
+framework module GSK {
+  umbrella header "GSK-umbrella.h"
+
+  export *
+  module * { export * }
+}
