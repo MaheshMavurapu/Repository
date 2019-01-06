@@ -7,3 +7,17 @@
 //
 
 import Foundation
+
+public class xyz {
+    func zy() {
+        
+    }
+    
+    func xy() {
+        
+    }
+    
+    func xz() {
+        
+    }
+}
