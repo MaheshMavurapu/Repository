@@ -9,6 +9,6 @@ target 'falkdjfaslk' do
   use_frameworks!
 
   # Pods for falkdjfaslk
-  pod 'GSK', '~> 0.1.1'
+  pod 'GSK'
 
 end

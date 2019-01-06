@@ -9,5 +9,7 @@
 import Foundation
 
 public class xyz {
-    
+    func xyz() -> String {
+        return ""
+    }
 }

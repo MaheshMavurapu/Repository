@@ -4,7 +4,7 @@ PODS:
     - Alamofire (~> 4.7)
 
 DEPENDENCIES:
-  - GSK (~> 0.1.1)
+  - GSK
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -16,6 +16,6 @@ SPEC CHECKSUMS:
   Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
   GSK: e29cf10bb0897e552d3873d83c9f73e022559e25
 
-PODFILE CHECKSUM: 51525f28554974da34bbd2b5100f607c762ef90f
+PODFILE CHECKSUM: c90783d8eac58c42aa3b87376efc16a3d32e0ac0
 
 COCOAPODS: 1.5.3
