@@ -12,4 +12,8 @@ public class xyz {
     func xyz() -> String {
         return ""
     }
+    
+    func xyZZZ() -> String {
+        return ""
+    }
 }
