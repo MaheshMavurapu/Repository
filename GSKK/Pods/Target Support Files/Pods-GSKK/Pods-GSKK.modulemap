@@ -1,0 +1,6 @@
+framework module Pods_GSKK {
+  umbrella header "Pods-GSKK-umbrella.h"
+
+  export *
+  module * { export * }
+}
